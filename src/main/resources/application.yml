@@ -15,6 +15,6 @@ spring:
         dialect: org.hibernate.dialect.PostgreSQLDialect
         ddl-auto: update
 server:
-  port: 6063
+  port: 6060
 practice:
   path: D:/uploads

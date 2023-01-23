@@ -1,6 +1,7 @@
 package com.example.employeedatabasedetails.Repository;
 
 import com.example.employeedatabasedetails.Entity.EmployeeEntity;
+import org.springframework.boot.autoconfigure.security.SecurityProperties;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
